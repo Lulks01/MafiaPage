@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+
+body, html{
+    font-family: monospace;
+    background-color: rgb(246, 246, 246);
+}
+
+header{
+    background-color: rgb(176, 39, 39);
+}
