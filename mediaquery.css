@@ -19,6 +19,11 @@
     main{
         width: 768px;
     }
+    menu > ul > li > a {
+        border-top: none;
+        margin: 0px;
+        
+    }
 }
 
 /* Large devices (laptops/desktops, 992px and up) */
